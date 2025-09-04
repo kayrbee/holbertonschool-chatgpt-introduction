@@ -10,5 +10,8 @@ for i in range(len(sys.argv)):
 ```
 
 #### Diagnosis
+![diagnosis](https://github.com/kayrbee/holbertonschool-chatgpt-introduction/blob/master/debugging/images/Task-1-diagnosed-issue.png)
+![summary](https://github.com/kayrbee/holbertonschool-chatgpt-introduction/blob/master/debugging/images/Task-1-summary.png)
 
 #### Suggested fixes
+![suggested fixes](https://github.com/kayrbee/holbertonschool-chatgpt-introduction/blob/master/debugging/images/Task-1-suggested-fixes.png)
